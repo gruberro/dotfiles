@@ -1,4 +1,4 @@
-# alcaeus' dotfiles
+# dotfiles
 
 ## Usage
 
@@ -12,7 +12,8 @@ If you only want to install parts, use the specific install scripts:
 ./setup-brew.sh
 ./setup-apps.sh
 ./setup-dotfiles.sh
-./setup-macos.sh
+./setup-php.sh
+./setup-mongodb.sh
 ```
 
 ## Disclaimer

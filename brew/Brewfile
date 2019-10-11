@@ -3,30 +3,22 @@
 
 tap 'alcaeus/brew'
 
-# General development stuff
 brew 'bash-completion'
 brew 'git'
 brew 'gnupg'
 brew 'pinentry-mac'
 brew 'hub'
 brew 'curl'
-brew 'm'
-brew 'mongo-orchestration'
 brew 'wget'
+brew 'watch'
 brew 'cloc'
 brew 'mas'
-
-# PHP packages
 brew 'php'
 brew 'php@7.2'
 brew 'php@7.1'
 brew 'php@7.4'
 brew 'composer'
+brew 'yarn'
+brew 'npm'
 
-# General casks
-cask 'moom'
-cask 'phpstorm'
-cask 'slack'
-cask 'toggl'
-cask 'whatpulse'
-cask 'whatsapp'
+cask 'iterm2'

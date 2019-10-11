@@ -12,3 +12,5 @@ for version in *; do
         pecl install $extension
     done < "$version/pecl.list"
 done
+
+brew link --overwrite php
